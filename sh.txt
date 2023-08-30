@@ -1,2 +1,5 @@
 qqqq
+<<<<<<< Updated upstream
 bbbb
+=======
+>>>>>>> Stashed changes
